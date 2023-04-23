@@ -1,11 +1,7 @@
 
 # NPS
-![](https://img.shields.io/github/stars/ehang-io/nps.svg)   ![](https://img.shields.io/github/forks/ehang-io/nps.svg)
-[![Gitter](https://badges.gitter.im/cnlh-nps/community.svg)](https://gitter.im/cnlh-nps/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-![Release](https://github.com/ehang-io/nps/workflows/Release/badge.svg)
-![GitHub All Releases](https://img.shields.io/github/downloads/ehang-io/nps/total)
 
-[README](https://github.com/ehang-io/nps/blob/master/README.md)|[中文文档](https://github.com/ehang-io/nps/blob/master/README_zh.md)
+[README](https://github.com/SaneSlark/Nps/blob/main/README.md)|[中文文档](https://github.com/SaneSlark/Nps/blob/main/README_zh.md)
 
 NPS is a lightweight, high-performance, powerful **intranet penetration** proxy server, with a powerful web management terminal.
 
